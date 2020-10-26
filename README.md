@@ -1,6 +1,6 @@
 # YOLO Car Detection
 
-Works on a conda environment with TensorFlow 1.14.0 + Keras.
+Week 3 project from Coursera's "Convolutional Neural Networks" course (DeepLearning.AI Deep Learning Specialization, 2018). Tested on a conda environment with TensorFlow 1.14.0 + Keras.
 
 Important: you have to put the file `yolo.h5` in the model_data folder. The file is ~196MB and can be obtained following these instructions:
 
